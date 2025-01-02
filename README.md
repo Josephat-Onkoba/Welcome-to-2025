@@ -11,13 +11,13 @@ Welcome to my GitHub profile, where I’ll be building and contributing to excit
 Here are some exciting applications I’ll be building and working on in 2025:  
 
 ### 1. **Student Industrial Attachment Management System**  
-🎓 Simplifying the way students manage their industrial attachments with institutions and employers. A tool to enhance organization and efficiency.  
+🎓 Simplifying the way students manage their industrial attachments with institutions and employers.  
 
 ### 2. **Emergency Medical Services App**  
 🚑 A life-saving platform to improve emergency medical response times and accessibility for everyone.  
 
 ### 3. **House Hunting System**  
-🏠 We know the struggle of finding a house. This system will make house hunting hassle-free and straightforward.  
+🏠 I know the struggle of finding a house. This system will make house hunting hassle-free and straightforward.  
 
 ### 4. **WeLove - AI Assistant for Toilet Training**  
 ❤️ An AI-driven assistant to help caregivers with toilet training for kids and individuals with continence challenges. Making a real impact, one step at a time.  
@@ -29,7 +29,8 @@ Here are some exciting applications I’ll be building and working on in 2025:
 📡 Ever wondered how to monetize your WiFi? This solution will help you turn your internet into a resourceful asset.  
 
 ### 7. **E-commerce Web Application**  
-🛒 Bringing your shop online with a beautifully designed and user-friendly e-commerce platform.  
+🛒 Bringing your shop online with a beautifully designed and user-friendly e-commerce platform. 
+ Currently building an Ecommerce application for my client. I am using wordpress in at the moment.  
 
 ### 8. **Kqimble**  
 🔐 Contributing to **Kqimble**, a private cybersecurity product under construction for Arifalab Technologies. Stay tuned for updates!  
@@ -46,5 +47,5 @@ Here’s to an **amazing 2025** filled with creativity, code, and success. Let�
 
 ---
 
-### ✍️ **Josephat Onkoba Serembe**  
+### ✍️ **Josephat O. Serembe**  
 This is my signature, and I mean serious business. 💼  
